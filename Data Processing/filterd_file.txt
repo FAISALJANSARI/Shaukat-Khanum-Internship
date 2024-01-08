@@ -379,10 +379,10 @@ Performed as: IPD
 Findings: 
 Potassium: 2.1 ( 3.4 4.5 )
 Informed Date : 05Aug2023 20:17:13
-Informed To : **** Dr. *****
+Informed To : Dr. 
 On Behalf of : 
 Read Back Confirmation : YES
-Email Sent To : **** Dr. *****
+Email Sent To : Dr. 
 Critical Alert of Arterial blood gases (ABG's) POCT Received: 
 will follow serum electrolytes.update senior
 Requested BB to arrange prbcs
@@ -426,13 +426,13 @@ Above plan discussed with Dr Ahsun Waqar ICU consultant
 Diagnosis / working diagnosis: 
 Tests and investigations required: 
 PATIENT TRANSFER SERVICE REQUEST NOTE
-Transfered From : ***** DR.
-Transfered To : ***** DR.
+Transfered From : DR.
+Transfered To : DR.
 I have informed the patient/family about the transfer of care.
 I have taken consent from the servicesreceiving consultant.
 HANDOVER NOTE:
 Handover To:
-***** DR. , Resident Doctor (R3)
+ DR. , Resident Doctor (R3)
 Reason For Admission:
 Acute T cell lymphoma
 loose stool and angular stomatitis
@@ -474,7 +474,7 @@ Hemoglobin: 3.7 ( 11.1 14.1 )
 RBC transfusion started at 7:00 am send repeat CBC afterwards
 Request for another RBC forwarded.
 HP Reviewed.
-Details as per ***** DR.
+Details as per DR.
 Post induction chemotherapy Day 17 
 EAR presentation on 5/8/2023 with history of fever and profuse diarrhea
 ICU admission for electrolytes replacement
@@ -501,8 +501,8 @@ Ringer Lactate Infusion 1000 mL
  Chase pending cultures 
  Keep in ICU
 Fellow Peds ICU Evaluation
-==========================
-1 year and 9 months old ***Patient,
+
+1 year and 9 months old Patient,
 Tcell Lymphoblastic Lymphoma,Post induction chemotherapy
 chemotherapy steroids stopped as diagnosis need to be confirmed.
 Bone marrow and CSF was negative
@@ -516,13 +516,13 @@ venous blood gas 7.4/28/34/17.3/6.8
 tachycardia 154/min, mean arterial pressure 49, improved after saline bolus, 
 Echocardiography 20 July Normal
 GCS 15/15, Blood sugar initially hypoglycemic, now improved
-Na=138,K=3.2, Cl=109, bicarb=13.2,urea=19, Cr=0.48
-PO4=4.43,IV fluids 30ml/hr, urine output=3.2ml/kg/hr
+Na138,K3.2, Cl109, bicarb13.2,urea19, Cr0.48
+PO44.43,IV fluids 30ml/hr, urine output3.2ml/kg/hr
 Abdomen soft, sips of water allowed,4 loose stools since morning
-Bilirubin=0.37, Albumin=2.1, puffy face
+Bilirubin0.37, Albumin2.1, puffy face
 last Fever on 04/08/23
-WBC=0.92,Hb=7.5, Plt=58
-CRP=236, Lactate=26
+WBC0.92,Hb7.5, Plt58
+CRP236, Lactate26
 blood cultures negative so far
 On meropenem and vancomycin, co trimoxazole
 PLAN
@@ -543,9 +543,9 @@ Benefits and common risks / adverse effects:
 Performed as: ICU
 Potassium: 2 ( 3.4 4.5 )
 Informed Date : 06Aug2023 17:12:35
-Informed To : ***** DR.
+Informed To : DR.
 Read Back Confirmation : NO
-Email Sent To : ***** DR.
+Email Sent To : DR.
 Critical Alert of Arterial blood gases (ABG's) POCT Received 
 Potassium 2 ( 3.4 4.5 )
 Action Taken 
@@ -579,13 +579,13 @@ Objective(Exam/Laboratory/Imaging Data):
 
 venous blood gas 7.36/27/15.1/9
 tachycardia 154/min
-Na=138148
-K=3.23.97
-Cl=109, bicarb=13.214.4
-urea=19, Cr=0.48
-PO4=4.433.54
+Na138148
+K3.23.97
+Cl109, bicarb13.214.4
+urea19, Cr0.48
+PO44.433.54
 IV fluids 20ml/hr
-urine output=8ml/kg/hr
+urine output8ml/kg/hr
 Abdomen soft,,2 loose stools since morning
 bratty diet allowed
 Lansky scale: Mostly in bed, participates in quiet activities
@@ -643,15 +643,15 @@ CVS:tachycardia , improved
 Echocardiography 8.8.23 severe LV dysfunction 
 GCS 15/15, Blood sugar initially hypoglycemic,later had hyperglycemic trend treated with insulin , now improved
 GIT : abdomen soft non tender , 
-Na=138>148>146
-K=3.2>3.97>3.14
-Cl=109, bicarb=13.214.413
-urea=19>17.7, Cr=0.48>0.18
-PO4=4.433.543.28
-urine output=2ml/kg/hr
+Na138>148>146
+K3.2>3.97>3.14
+Cl109, bicarb13.214.413
+urea19>17.7, Cr0.48>0.18
+PO44.433.543.28
+urine output2ml/kg/hr
 Abdomen soft, 2 loose stools since morning
 bratty diet allowed, not taking orally 
-Bilirubin=0.37>1.1 , Albumin=2.1, 
+Bilirubin0.37>1.1 , Albumin2.1, 
 puffy face, orbital swelling
 plan
 give restricted fluids
@@ -682,12 +682,12 @@ venous blood gas 7.39/29/182/17.7/6.7
 tachycardia improved 100/min, mean arterial pressure 68 with dobutamine,
 Echocardiography Severe Left ventricle Dysfunction with Mild MR 08/08/23
 GCS 15/15, irritable, Blood sugar initially hypoglycemic, now improved
-Na=138>148,K=3.2>4.02, Cl=109>122, bicarb=13.2>17.5,urea=19>14.22, Cr=0.48><0.17
-PO4=4.43>4.1, No IV fluids, NG feed 30ml/3hr, urine output=1.5ml/kg/hr
-Balance=positive 629ml/24 hrs, cumulative balance=1650ml
-Abdomen soft but distended, sips of water allowed,3 loose stools and 1 soft stool in morning,Bilirubin=0.37, Albumin=2.1>2.42,bowel sounds present
+Na138>148,K3.2>4.02, Cl109>122, bicarb13.2>17.5,urea19>14.22, Cr0.48><0.17
+PO44.43>4.1, No IV fluids, NG feed 30ml/3hr, urine output1.5ml/kg/hr
+Balancepositive 629ml/24 hrs, cumulative balance1650ml
+Abdomen soft but distended, sips of water allowed,3 loose stools and 1 soft stool in morning,Bilirubin0.37, Albumin2.1>2.42,bowel sounds present
 last Fever on 07/08/23 38.9 then episodes of hypothermia on 08/08/23
-WBC=0.92>4.16,Hb=7.5>8.8, Plt=58>17
+WBC0.92>4.16,Hb7.5>8.8, Plt58>17
 On meropenem and vancomycin, co trimoxazole(PJP prophylaxis)
 Continue Oxygen inhalation
 tapper down dobutamine while keeping Mean arterial pressure above 55
@@ -700,9 +700,9 @@ Transfusional support
 Optimise electrolytes
 updated mother in detail regarding critical condition. she met with primary oncologist, she updated her as well in detail. she was upset but voiced understanding.
 Dietary instructions: 
-Transfered To : ***** DR..
+Transfered To : DR..
 This patient has met the criteria for discharge from ICU.
-***** DR. , Medical Officer (M2)
+ DR. , Medical Officer (M2)
 icu admission suspected Adrenal Crisis due to sudden discontinuation of chemotherapy steroids
 cardiac shock, severe LV dysfunction
 Vancomycin , dose adjusted
@@ -720,13 +720,13 @@ Currently 5th ICU day
  Cardiogenic shock
 venous blood gas 7.48/36/111/26.8
 tachycardia improved 100/min, mean arterial pressure 68 with out pressor,
-Na=138>148>147,K=3.2>4.02>2.76, Cl=109>122>111, bicarb=13.2>17.5,urea=19>14.22>13.65, Cr=0.48><0.17>0.18
-PO4=4.43>4.1>3.95, No IV fluids, Oral feed 30ml/3hr, urine output=8.3ml/kg/hr
-Balance=negative 1358ml/24 hrs,achieved with Furosemide 0.5mg/kg/TID, now discontinued
-Abdomen soft but distended, 1 soft stool in morning,Bilirubin=0.37>0.81, Albumin=2.1>2.42>2.7,bowel sounds present
+Na138>148>147,K3.2>4.02>2.76, Cl109>122>111, bicarb13.2>17.5,urea19>14.22>13.65, Cr0.48><0.17>0.18
+PO44.43>4.1>3.95, No IV fluids, Oral feed 30ml/3hr, urine output8.3ml/kg/hr
+Balancenegative 1358ml/24 hrs,achieved with Furosemide 0.5mg/kg/TID, now discontinued
+Abdomen soft but distended, 1 soft stool in morning,Bilirubin0.37>0.81, Albumin2.1>2.42>2.7,bowel sounds present
 last Fever on 07/08/23 38.9 then episodes of hypothermia on 10/08/23 at 7am 35C
-WBC=0.92>4.16>10.25,Hb=7.5>8.8>11.3, Plt=58>17>45
-CRP=236, Lactate=26>8.6
+WBC0.92>4.16>10.25,Hb7.5>8.8>11.3, Plt58>17>45
+CRP236, Lactate26>8.6
 On meropenem , co trimoxazole(PJP prophylaxis)
 Mean arterial pressure above 55
 Discontinue Furosemide
